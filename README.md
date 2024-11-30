@@ -1,4 +1,4 @@
-##  ☁🌨️About  Me:
+##  ☁About  Me:
 👋 Hi there! I’m **Siham**, a passionate Software Engineering and AI student, diving deep into the world of tech, algorithms, and intelligent systems. 🚀
 
 
