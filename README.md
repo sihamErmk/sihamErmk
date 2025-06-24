@@ -205,4 +205,4 @@ class CurrentGoals:
 
 </div>
 
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,17,19,21&height=120&section=footer"/>
+<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=b31774&height=120&section=footer"/>
