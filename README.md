@@ -196,7 +196,7 @@ class CurrentGoals:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎵 Coding Playlist
-*Currently vibing to: Lo-fi Hip Hop & Synthwave* 🎧
+*Currently vibing to: me* 🎧
 
 ---
 
