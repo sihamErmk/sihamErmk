@@ -2,7 +2,7 @@
 
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=b31774&height=300&section=header&text=SihamErmk&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=b31774&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+Software+Engineering+%26+AI+Student;+Machine+Learning+Enthusiast;💻+Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=b31774&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+Software+Engineering+%26+AI+Student;+Machine+Learning+Enthusiast;+Full+Stack+Developer" alt="Typing SVG" />
 
 </div>
 
