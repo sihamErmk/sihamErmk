@@ -24,7 +24,7 @@ const siham = {
         "Cloud Architecture", 
         "System Design"
     ],
-    funFact: "I debug code faster than my life! hahhaaha"
+
 };
 ```
 
